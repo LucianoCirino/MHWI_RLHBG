@@ -1,17 +1,34 @@
-1. This script was designed to work with a Heavy Bowgun (HBG) in "Monster Hunter World:Iceborne" (Also works with ICE).
-2. For script to work properly, you must have installed the following mods from Nexus:
-	a) Performance Booster and Plugin Extender - https://www.nexusmods.com/monsterhunterworld/mods/3473?tab=files&file_id=20484
-	b) Tic Rate Fix - https://www.nexusmods.com/monsterhunterworld/mods/3474?tab=files&file_id=17858
-	c) Better Input Detection - https://www.nexusmods.com/monsterhunterworld/mods/4333
-	d) Strackers Loader - https://www.nexusmods.com/monsterhunterworld/mods/1982
-3. Script currently only works with game locked at 60fps. If your game is unable to maintain 60fps the script will mess up timinngs.
-4. The scope does not work with Reverse Ledge HBG.
-5. To start, run the "MHWI_RLHBG_v..." ahk script.
-6. If script was opened prior to loading into town, reload script. Script will automatically reload itself after any equipment menu closes.
-When something seems off in script, try reloading it. If all fails, reset script to its defaults and try again. Make sure your controls match script's Keyboard bindings.
-7. Script hotkey commands are designed to be able to work with a PS4 Controller.
-8. Once you enable RLHBG by the assigned hotkey (default f8), walk off ledge with no aim down sights to begin.
-9. While script is in motion, attempt to minimize your inputs as they will affect your results.
-10. Many aspects of the script remain untested... which means there are probably many bugs.
+# Monster Hunter World: Iceborne Heavy Bowgun Script
 
-For further help, questions, or bug reports please contact me on Discord through DMs (TSC#9184) 
+This script has been designed to enhance your experience using the Heavy Bowgun (HBG) in **Monster Hunter World: Iceborne**. It's also compatible with ICE.
+
+## Prerequisites
+
+Ensure you have the following mods installed from Nexus for optimal performance:
+
+- **Performance Booster and Plugin Extender**  
+  [Download Here](https://www.nexusmods.com/monsterhunterworld/mods/3473?tab=files&file_id=20484)
+
+- **Tic Rate Fix**  
+  [Download Here](https://www.nexusmods.com/monsterhunterworld/mods/3474?tab=files&file_id=17858)
+
+- **Better Input Detection**  
+  [Download Here](https://www.nexusmods.com/monsterhunterworld/mods/4333)
+
+- **Strackers Loader**  
+  [Download Here](https://www.nexusmods.com/monsterhunterworld/mods/1982)
+
+## Notes
+
+1. Ensure the game is locked at **60fps**. Any inconsistencies in frame rate can lead to timing issues with the script.
+2. The scope is **not compatible** with Reverse Ledge HBG.
+3. For optimal script performance, make sure your controls match the script's keyboard bindings.
+
+## Usage
+
+1. Run the `MHWI_RLHBG_v...` ahk script to start.
+2. If you've started the script before loading into town, simply reload it. The script will automatically reload after any equipment menu closes. If issues arise, first try reloading. If problems persist, reset the script to its defaults and re-attempt.
+3. Hotkey commands are PS4 Controller friendly.
+4. Activate RLHBG using the default hotkey (F8), then walk off the ledge without aiming down sights to initiate.
+5. When the script is running, try to limit your inputs to ensure accuracy.
+6. Keep in mind, several features of this script are experimental, so you may encounter bugs.
