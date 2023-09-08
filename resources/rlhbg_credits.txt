@@ -1,0 +1,9 @@
+Reverse Ledge Heavy Bow Gun (RLHBG) AHK Script
+   
+The original foundation for this script was written by MoonBunnie in 2019. 
+Script has since then been extensively altered/modified by TSC (2021-2022).
+ 
+Please label your speedruns using this script as TAS, 
+and give back some credit if used :)
+
+For more help/info, you can contact me on Discord: TSC#9184
