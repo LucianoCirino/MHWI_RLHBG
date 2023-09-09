@@ -21,17 +21,17 @@ This script was designed to work with Monster Hunter World: Iceborne. It's also 
 
 <center>
 
-**Submachine Gun Mode with Aerial Reloads:**
+**Submachine Gun Mode with Aerial Reloads:**  [🎥 Watch on YouTube](http://www.youtube.com/watch?v=r3ED2GoKg5k)
 
-[![Submachine Gun Mode with Aerial Reloads](http://img.youtube.com/vi/r3ED2GoKg5k/0.jpg)](http://www.youtube.com/watch?v=r3ED2GoKg5k "Submachine Gun Mode with Aerial Reloads")
+[![Submachine Gun Mode with Aerial Reloads](http://img.youtube.com/vi/r3ED2GoKg5k/0.jpg)](http://www.youtube.com/watch?v=r3ED2GoKg5k)
 
 </center>
 
 <center>
 
-**noADS with Aerial Reloads:**
+**noADS with Aerial Reloads:**  [🎥 Watch on YouTube](http://www.youtube.com/watch?v=wY7CKiunT2Y)
 
-[![noADS with Aerial Reloads](http://img.youtube.com/vi/wY7CKiunT2Y/0.jpg)](http://www.youtube.com/watch?v=wY7CKiunT2Y "noADS with Aerial Reloads")
+[![noADS with Aerial Reloads](http://img.youtube.com/vi/wY7CKiunT2Y/0.jpg)](http://www.youtube.com/watch?v=wY7CKiunT2Y)
 
 </center>
 
