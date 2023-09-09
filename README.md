@@ -6,7 +6,7 @@ In MHW:I, landing after having shot in the air causes players to land with forwa
 
 This script was designed to work with Monster Hunter World: Iceborne. It's also compatible with the popular mod ICE.
 
-# RLHBG Notes
+# RLHBG/Script Notes
 - RLHBG is much quicker when not Aiming Down Sights (No ADS) because there is a much smaller delay for firing after falling.
 - There are some very rare ledges where one can enter "SubMachine Gun mode". These ledges are so rare ive only ever encountered
  two of them, on in the training area, and one where Lunastra spawns.
@@ -52,7 +52,7 @@ Ensure you have the following mods installed from Nexus for optimal performance:
 - **Strackers Loader**  
   [Download Here](https://www.nexusmods.com/monsterhunterworld/mods/1982)
 
-## Script Notes
+## Other
 
 1. Ensure the game is locked at **60fps**. Any inconsistencies in frame rate can lead to timing issues with the script.
 2. The scope is **not compatible** with Reverse Ledge HBG.
