@@ -1,6 +1,11 @@
-# Monster Hunter World: Iceborne Heavy Bowgun Script
+# Monster Hunter World: Iceborne `Reverse Ledge Heavy Bowgun`
 
-This script has been designed to enhance your experience using the Heavy Bowgun (HBG) in **Monster Hunter World: Iceborne**. It's also compatible with ICE.
+This script was designed to work with **Monster Hunter World: Iceborne**. It's also compatible with the popular mod **ICE**.
+
+## Example Speedruns:
+[![Video Name](http://img.youtube.com/vi/r3ED2GoKg5k/0.jpg)](http://www.youtube.com/watch?v=r3ED2GoKg5k "Video Title")
+
+[![Video Name](http://img.youtube.com/vi/wY7CKiunT2Y/0.jpg)](http://www.youtube.com/watch?v=wY7CKiunT2Y "Video Title")
 
 ## Prerequisites
 
