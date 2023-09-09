@@ -1,12 +1,10 @@
 # Monster Hunter World: Iceborne - `Reverse Ledge Heavy Bowgun`
 
-Reverse Ledge Heavy Bowgun (RLHBG) is an exploit in Monster Hunter World: Iceborne (MHW:I) witht he HeavyBowgun that
-gives the player the ability to cancel recoil/reload animations on a ledge.
-The main premise of RLHBG  is to fall off a ledge and have a timed aerial shot land you at the very tip of the ledge.
-In MHW:I landing after having shot in the air causes players to land with forward momentum, so if near a ledge one can use
-this to auto propel you back off the ledge (and then repeat the process).
+Reverse Ledge Heavy Bowgun (RLHBG) is an exploit in Monster Hunter World: Iceborne (MHW:I) with the Heavy Bowgun that gives the player the ability to cancel recoil/reload animations on a ledge.
+The main premise of RLHBG is to fall off a ledge and have a timed aerial shot land you at the very tip of the ledge.
+In MHW:I, landing after having shot in the air causes players to land with forward momentum, so if near a ledge, one can use this to auto-propel back off the ledge (and then repeat the process).
 
-This script was designed to work with **Monster Hunter World: Iceborne**. It's also compatible with the popular mod **ICE**.
+This script was designed to work with Monster Hunter World: Iceborne. It's also compatible with the popular mod ICE.
 
 # RLHBG Notes
 - RLHBG is much quicker when not Aiming Down Sights (No ADS) because there is a much smaller delay for firing after falling.
