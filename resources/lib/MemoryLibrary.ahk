@@ -4,29 +4,29 @@ global bAddress := 0x140000000
 global prcId := Memory_GetProcessID(prcName)
 global prcHandle := Memory_GetProcessHandle(prcId)
 
-global stateOffsets := [0x506D270, 0x80, 0x6278]
+global stateOffsets := [0x500AB60, 0x80, 0x6278]
 global stateAddress := GetAddressPtrChain(stateOffsets)  ;Action ID
-global animIDOffsets := [0x506D270, 0x80, 0x468, 0x238]
+global animIDOffsets := [0x500AB60, 0x80, 0x468, 0x238]
 global animIDAddress := GetAddressPtrChain(animIDOffsets)  ;Primary Animation ID
-global animID2Offsets := [0x506D270, 0x80, 0x468, 0x27A8]
+global animID2Offsets := [0x500AB60, 0x80, 0x468, 0x27A8]
 global animID2Address := GetAddressPtrChain(animID2Offsets)  ;Secondary Animation ID
 
-global ammoOffsets := [0x506D270, 0x80, 0x76B0, 0x23A8]
+global ammoOffsets := [0x500AB60, 0x80, 0x76B0, 0x23A8]
 global ammoAddress := GetAddressPtrChain(ammoOffsets)
 
-global ammoTypeOffsets := [0x506D270, 0x80, 0x76B0, 0x27C8]
+global ammoTypeOffsets := [0x500AB60, 0x80, 0x76B0, 0x27C8]
 global ammoTypeAddress := GetAddressPtrChain(ammoTypeOffsets)
 
-global posXOffsets := [0x506D270, 0x80, 0x160]
+global posXOffsets := [0x500AB60, 0x80, 0x160]
 global posXAddress := GetAddressPtrChain(posXOffsets)
-global posYOffsets := [0x506D270, 0x80, 0x164]
+global posYOffsets := [0x500AB60, 0x80, 0x164]
 global posYAddress := GetAddressPtrChain(posYOffsets)
-global posZOffsets := [0x506D270, 0x80, 0x168]
+global posZOffsets := [0x500AB60, 0x80, 0x168]
 global posZAddress := GetAddressPtrChain(posZOffsets)
 
-global mon1MaxHpOffsets := [0x5074180,0xE58, 0x7670, 0x60]
+global mon1MaxHpOffsets := [0x5074180,0xE58, 0x7670, 0x60] ;These are out of date as of v15.20
 global mon1MaxHpAddress := GetAddressPtrChain(mon1MaxHpOffsets)
-global mon1HpOffsets := [0x5074180, 0xE58, 0x7670, 0x64]
+global mon1HpOffsets := [0x5074180, 0xE58, 0x7670, 0x64]   ;These are out of date as of v15.20
 global mon1HpAddress := GetAddressPtrChain(mon1HpOffsets)
 
 OnExit("CleanExit")
